@@ -38,6 +38,8 @@ En resumen, el HTML semántico es fundamental para crear sitios web robustos, ac
 
 
 Diccionario de Etiquetas Semánticas
+
+
 1: header:
 Agrupa el encabezado de la página o sección; incluye logotipo, título, y opciones principales
 
