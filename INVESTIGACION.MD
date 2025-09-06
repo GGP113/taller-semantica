@@ -16,7 +16,7 @@ Atributos
 
 Un atributo es información extra que se añade en la etiqueta de apertura para configurar o modificar el comportamiento de un elemento, como class="editor-note". en el ejemplo de abajo
 
-<a href="https://google.com">Ir a Google</a>.
+<!-- <a href="https://google.com">Ir a Google</a>. -->
 
 en este caso el href es como el indicador de hacia a donde debe apuntar el link cuando haces click en el.
 
