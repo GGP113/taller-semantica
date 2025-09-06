@@ -38,62 +38,62 @@ En resumen, el HTML semántico es fundamental para crear sitios web robustos, ac
 
 
 Diccionario de Etiquetas Semánticas
-1: <header>:
+1: header:
 Agrupa el encabezado de la página o sección; incluye logotipo, título, y opciones principales
 
-2: <nav>:
+2: nav:
 Define la zona destinada a la navegación, contiene menús y enlaces importantes.
 
-3: <main>:
+3: main:
 Señala el contenido principal, único e irrepetible de la página.
 
-4: <section>:
+4: section:
 Organiza grupos temáticos de contenido, como capítulos o apartados.
 
-5: <article>:
+5: article:
 Encapsula un contenido independiente/autónomo, que podría publicarse fuera del contexto de la página (noticias, blogs, comentarios).
 
-6: <aside>:
+6: aside:
 Designa contenido complementario o secundario, como barras laterales, que no está directamente relacionado al tema principal
 
-7: <footer>:
+7: footer:
 Marca el pie de página, usado para información de contacto, derechos de autor o enlaces finales
 
-8:<img>: 
+8:img: 
 Inserta una imagen en la página. 
 
-9:<div>: 
+9:div: 
 Define una división o sección en el documento. 
 
-10:<span>: 
+10:span: 
 Define una sección en línea, a menudo utilizada para aplicar estilos a partes específicas de un texto. 
 
-11:<br>:
+11:br:
 Inserta un salto de línea. 
 
-12:<hr>: 
+12:hr: 
 Crea una línea horizontal para separar secciones. 
 
-13:<strong>: 
+13:strong: 
 Indica que un texto es importante, generalmente se muestra en negrita. 
 
-14:<em>: 
+14:em: 
 Indica énfasis en un texto, usualmente se muestra en cursiva.
 
-15:<ul>:
+15:ul:
  Crea una lista desordenada (con viñetas).
 
-16:<ol>:
+16:ol:
 Crea una lista ordenada (numerada).
 
-17:<li>: 
-Define cada elemento dentro de una lista <ul> o <ol>.
+17:li: 
+Define cada elemento dentro de una lista ul o ol.
 
-18:<time>:
+18:time:
 Sirve para marcar fechas y horas en un formato legible para humanos y máquinas, facilitando la interpretación y uso por sistemas de calendarios o motores de búsqueda.
 
-19:<figure>:
-Define contenido autónomo, como una imagen, ilustración, diagrama o código, que está acompañado de un pie de figura opcional con <figcaption>. Es útil para asociar contenido visual con su descripción semántica
+19:figure:
+Define contenido autónomo, como una imagen, ilustración, diagrama o código, que está acompañado de un pie de figura opcional con figcaption. Es útil para asociar contenido visual con su descripción semántica
 
-20:<address>: 
+20:address: 
 Indica información de contacto del autor o propietario del documento o una sección específica, como dirección, correo electrónico o teléfono. Normalmente se usa en el pie de página o al final de un artículo.
