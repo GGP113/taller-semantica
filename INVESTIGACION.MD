@@ -43,7 +43,7 @@ Diccionario de Etiquetas Semánticas
 1: header:
 Agrupa el encabezado de la página o sección; incluye logotipo, título, y opciones principales
 
-2: nav:
+2: nav:  :
 Define la zona destinada a la navegación, contiene menús y enlaces importantes.
 
 3: main:
